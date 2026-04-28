@@ -13,7 +13,7 @@
   parent: BaseVessel
   name: IHS Mercury
   description: A long-range but compact salvage shuttle, designed to operate far from a home base. Has its own FTL drive.
-  price: 32000 # ~27500 appraise.
+  price: 37500 # ~27500 appraise
   category: Small
   group: Shipyard
   shuttlePath: /Maps/_AS/Shuttles/mercury.yml
