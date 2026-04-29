@@ -485,11 +485,6 @@ entities:
     - type: Transform
       pos: 0.5,-0.5
       parent: 1
-    - type: DeviceNetwork
-      configurators:
-      - invalid
-      deviceLists:
-      - 2
 - proto: APCHighCapacity
   entities:
   - uid: 17
